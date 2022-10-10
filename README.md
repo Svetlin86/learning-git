@@ -1,4 +1,4 @@
-# Learning-git
+# GIT AND GITHUB
 
 ## Practising my git skills
 
